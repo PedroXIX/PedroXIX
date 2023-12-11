@@ -1,4 +1,4 @@
-## Olá, eu sou o Pedro Henrique, seja bem vindo! 👋
+## Olá, eu sou o Pedro Silva, seja bem vindo! 👋
 <div>
   <a href="https://github.com/PedroXIX/github-readme-stats">
     <img height ="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=PedroXIX&show_icons=true&theme=radical&bg_color=00000000" />
