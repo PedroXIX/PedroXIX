@@ -5,17 +5,13 @@ Desenvolvedor Full Stack apaixonado por criar soluções tecnológicas eficiente
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/PedroXIX">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroXIX&show_icons=true&theme=radical&bg_color=00000000&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/PedroXIX">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroXIX&layout=compact&theme=radical&bg_color=00000000&langs_count=8" alt="Linguagens mais utilizadas" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroXIX&show_icons=true&theme=radical&bg_color=00000000&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroXIX&layout=compact&theme=radical&bg_color=00000000&langs_count=8" alt="Linguagens mais utilizadas" />
 </div>
 
 ## 🚀 Stack Tecnológica
 ```text
-Backend:     C#, ASP.NET, Nest.Js, Node
+Backend:     C#, ASP.NET, Nest.js, Node
 Database:    MySQL, SQL Server, MongoDB, Postgres
 Frontend:    React, Angular
 ```
